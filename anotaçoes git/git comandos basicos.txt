@@ -1,0 +1,28 @@
+ssh-keygen -t ed25519 -C para gerar chaves
+ls mostra a pasta que esta
+pwd caminho de onde esta
+eval $"(ssh-agent -s)"keygen
+ssh-add id_ed25519
+git clone + o link do gith baixa arquivos do gihrt para o git
+Alguns comandos
+ls lista pastas
+cd + nome da pasta entra no diretorio
+ CTRL+L limpa a tela de programaçao
+Q+ENTER sai das configuraçoes
+mkdir cria diretorios 
+cd +nome do diretorio entra na pasta
+git init gera uma pasta do git oculta
+ls -a mostra arquivos ocultos
+cd .. volta um nivel
+git config --global --unset para deletar configuraçoes
+git config --global user.email ""
+git config --global user.name "perkles"
+git add *  + "nome do arquivo" para salvar 
+git add. ou add. -A atualiza pastas adicionadas no repositorio
+
+git add nome do arquivo
+git commit -m"" mensagem a ser escrita
+git init iniciar um repositorio 
+git status vamos usar mto
+git push origin master
+git remote -v mostra links do repositorio
