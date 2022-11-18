@@ -1,6 +1,6 @@
-# dio-desafio-github-primeiro
+# Dio-desafio-github-primeiro
 Desafio de codigo sobre git/github
 
-Links Uteis
+##Links Úteis
 
 [Sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
